@@ -1,4 +1,4 @@
-# Analyzing-Risk-of-CHD-with-Discriminative-NN
+# Analyzing the Risk of Coronaty Heart Disease with Discriminative Neural Networks
 This project is part of a research paper that was presented as a poster at ICPRAM 2020. It highlights the use of discriminative neural networks to tackle the problem of class imbalance. Find the paper here: https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=91901
 
 ## About
