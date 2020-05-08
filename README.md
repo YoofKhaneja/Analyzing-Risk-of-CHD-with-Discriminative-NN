@@ -11,4 +11,4 @@ The dataset used is the Framingham Heart Study data with a high class imbalance 
 The data has many missing values which were imputed suitably based on data type. Also, the data underwent a thorough preprocessing before being fed into the network.
 
 ## Results
-The discriminative model built using a Siamese network outperforms the base vanilla NN considerably
+The discriminative model built using a Siamese network outperforms the base vanilla NN considerably.
