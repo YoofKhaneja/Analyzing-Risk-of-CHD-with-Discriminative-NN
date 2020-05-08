@@ -16,7 +16,7 @@ The data has many missing values which were imputed suitably based on data type.
 ## Results
 The discriminative model built using a Siamese network outperforms the base vanilla NN considerably.
 
-##Citation
+## Citation
 
 @inproceedings{2020khaneja,
   title={Analyzing the Risk of Coronaty Heart Disease with Discriminative Neural Networks},
